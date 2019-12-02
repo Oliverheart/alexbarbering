@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+<head>
+<style type="text/css">
+@import url("../Desktop/Unnamed Site 6/style.css");
+</style>
+<body>
+<title>Alex's Barbering Booking</title>
+    <meta charset="utf-8" />
+</head>  
+<table border="1">
+</table>
+</script>
+<label for="username"><b>Username</b></label>
+<input name="username" type="text" required placeholder="Enter Username" value="Username" id="username">
+
+            <label for="psw"><b>Password</b></label>
+            <input name="psw" type="password" required placeholder="Enter Password">
+
+            <button type="submit">Login</button>
+            <label>
+                <input type="checkbox" checked="checked" name="remember"> Remember me
+            </label>
+        <div class="container" style="background-color:#f1f1f1" align="justify">
+            <button type="button" class="cancelbtn">Cancel</button>
+            <span class="psw">Forgot <a href="#">password?</a></span>
+			<input name="Register" type="button" id="Register" value="Register"></button>
+        </div>
+<div>
+	 <iframe src="https://calendar.google.com/calendar/embed?src=7vtgnot23uaplr55lvqtdfdpd4%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+</div>       
+</body>
+</html>
